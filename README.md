@@ -45,7 +45,8 @@
 ---
 
 ## 📫 Contact Me
-- 📧 Email: your.email@example.com  
-- 💻 [GitHub](https://github.com/YOUR-USERNAME)
+- 📧 Email: abdullahmmmm64@gmail.com
+ 
+- 💻 [GitHub](https://github.com/Abdullah-69-dot)
 
 ---
