@@ -42,11 +42,6 @@
 - Supports user authentication, post editing, and moderation  
 - Perfect for building community-driven discussions  
 - Technologies: Django, Django ORM, Bootstrap
-
----
-
-(المشاريع زي ما كتبناها قبل كده...)
-
 ---
 
 ## 📫 Contact Me
