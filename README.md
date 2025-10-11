@@ -15,8 +15,8 @@
 - **Languages**: Python, SQL  
 - **Frameworks**: Django, Django REST Framework  
 - **Database**: SQLite, PostgreSQL  
-- **Tools**: Git, GitHub, VSCode  
-- **Other**: HTML (basic), still learning Linux CLI & Postman
+- **Tools**: Git, GitHub, VSCode  , Docker
+- **Other**: HTML (basic), Linux CLI & Postman
 
 ---
 
