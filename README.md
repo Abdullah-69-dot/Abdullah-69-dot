@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👨‍💻 Abdullah Mohammed Yosef
+#  Abdullah Mohammed Yosef
 
 ### Full-Stack Developer | Django & REST APIs Specialist
 
@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 ```python
 class Developer:
@@ -31,13 +31,13 @@ class Developer:
         ]
 ```
 
-🎓 **ITI Graduate** - Full-Stack Web Development  
-📊 **CAPMAS Trainee** - Data Analysis & Python  
-📍 Currently seeking opportunities to build impactful web solutions
+ **ITI Graduate** - Full-Stack Web Development  
+ **CAPMAS Trainee** - Data Analysis & Python  
+ Currently seeking opportunities to build impactful web solutions
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -65,7 +65,7 @@ class Developer:
 
 ---
 
-## 🐍 Contribution Snake
+##  Contribution Snake
 
 <div align="center">
   <picture>
@@ -77,20 +77,20 @@ class Developer:
 
 ---
 
-## 💼 Featured Projects
+##  Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 🛒 Full-Scale E-commerce Platform
+###  Full-Scale E-commerce Platform
 **Advanced multi-vendor marketplace with complete shopping experience**
 
-- 🔐 User authentication & authorization
-- 🛍️ Cart system with session management
-- 💳 Checkout & order tracking
-- 📊 Admin dashboard & analytics
-- 🤖 AI-powered recommendations & chatbot
+-  User authentication & authorization
+-  Cart system with session management
+-  Checkout & order tracking
+-  Admin dashboard & analytics
+-  AI-powered recommendations & chatbot
 
 **Tech:** `Django` `PostgreSQL` `Bootstrap` `REST API`
 
@@ -99,14 +99,14 @@ class Developer:
 </td>
 <td width="50%">
 
-### 📚 Library Management System
+###  Library Management System
 **Comprehensive book management solution**
 
-- 📖 Book catalog with CRUD operations
-- 👥 User roles & permissions
-- 📅 Borrowing history tracking
-- 🔍 Advanced search & filtering
-- 📊 Statistical reports
+-  Book catalog with CRUD operations
+-  User roles & permissions
+-  Borrowing history tracking
+-  Advanced search & filtering
+-  Statistical reports
 
 **Tech:** `Django` `SQLite` `ORM`
 
@@ -118,14 +118,14 @@ class Developer:
 <tr>
 <td width="50%">
 
-### 💬 Blog & Discussion Forum
+###  Blog & Discussion Forum
 **Community-driven discussion platform**
 
-- ✍️ Create & manage blog posts
-- 💭 Threaded comments system
-- 🏷️ Topic categorization
-- 👤 User profiles & activity
-- 🎨 Responsive design
+-  Create & manage blog posts
+-  Threaded comments system
+-  Topic categorization
+-  User profiles & activity
+-  Responsive design
 
 **Tech:** `Django` `PostgreSQL` `HTML/CSS`
 
@@ -134,14 +134,14 @@ class Developer:
 </td>
 <td width="50%">
 
-### ⭐ Product Rater API
+###  Product Rater API
 **RESTful API for product reviews & ratings**
 
-- 🔌 Complete REST API architecture
-- ⭐ Rating & review system
-- 🔒 Token-based authentication
-- 📄 API documentation
-- ✅ Validation & error handling
+-  Complete REST API architecture
+-  Rating & review system
+-  Token-based authentication
+-  API documentation
+-  Validation & error handling
 
 **Tech:** `Django REST Framework` `JWT`
 
@@ -153,7 +153,7 @@ class Developer:
 
 <div align="center">
 
-### 📂 More Projects
+###  More Projects
 [![E-commerce V2](https://img.shields.io/badge/E--commerce_V2-View-0d1117?style=for-the-badge&logo=github)](https://github.com/Abdullah-69-dot/E-commerce)
 [![Portfolio](https://img.shields.io/badge/Portfolio-View-0d1117?style=for-the-badge&logo=github)](https://github.com/Abdullah-69-dot/Portfolio)
 
@@ -161,20 +161,7 @@ class Developer:
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Abdullah-69-dot&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&icon_color=00d9ff" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullah-69-dot&theme=radical&hide_border=true&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" />
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-69-dot&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8" />
-
-</div>
-
----
-
-## 🎯 Current Focus
+##  Current Focus
 
 ```javascript
 const currentlyWorkingOn = {
@@ -187,7 +174,7 @@ const currentlyWorkingOn = {
 
 ---
 
-## 📫 Let's Connect
+##  Let's Connect
 
 <div align="center">
 
@@ -196,9 +183,9 @@ const currentlyWorkingOn = {
 [![GitHub](https://img.shields.io/badge/GitHub-Abdullah--69--dot-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdullah-69-dot)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/Abdullah-69-dot/Portfolio)
 
-📱 **Phone:** +20 111 513 6283  
-📍 **Location:** Giza, Egypt  
-🌐 **Language:** English (C1)
+ **Phone:** +20 111 513 6283  
+ **Location:** Giza, Egypt  
+ **Language:** English (C1)
 
 </div>
 
