@@ -6,12 +6,6 @@
 
 <h1 align="center">Hi 👋, I’m <strong>Abdullah Mohammed Yosef</strong></h1>
 <p align="center">Backend Developer | Django & APIs Enthusiast</p>
-
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/Abdullah-69-dot" alt="banner" style="width:100%;max-width:980px;border-radius:12px;opacity:0.95;" />
-</p>
-
-
 ---
 
 ### About
