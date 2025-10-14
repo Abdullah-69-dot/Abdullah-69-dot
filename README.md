@@ -1,9 +1,5 @@
 <!-- Dark Modern Portfolio README for Abdullah -->
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/Abdullah-69-dot" width="160" style="border-radius:50%;" />
-</p>
-
 <h1 align="center">Hi 👋, I’m <strong>Abdullah Mohammed Yosef</strong></h1>
 <p align="center">Backend Developer | Django & APIs Enthusiast</p>
 
