@@ -11,9 +11,6 @@
   <img src="https://avatars.githubusercontent.com/Abdullah-69-dot" alt="banner" style="width:100%;max-width:980px;border-radius:12px;opacity:0.95;" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=2000&color=ffffff&center=true&vCenter=true&width=720&lines=Backend+Developer;Django+%26+APIs;Building+Scalable+Systems" alt="typing" />
-</p>
 
 ---
 
