@@ -4,7 +4,7 @@
 
 ### Full-Stack Developer | Django & REST APIs Specialist
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications;Django+%7C+Python+%7C+PostgreSQL;Clean+Code+%26+RESTful+APIs;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications;Django+%7C+Python+%7C+PostgreSQL;Clean+Code+%26+RESTful+APIs;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
 </div>
 
@@ -42,37 +42,39 @@ class Developer:
 <div align="center">
 
 ### Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![DRF](https://img.shields.io/badge/Django_REST-darkred?style=for-the-badge&logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Databases & Tools
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
 ---
+
 ## 🐍 Contribution Snake
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abdullah-69-dot/Abdullah-69-dot/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abdullah-69-dot/Abdullah-69-dot/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Abdullah-69-dot/Abdullah-69-dot/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Abdullah-69-dot/Abdullah-69-dot/output/github-snake-dark.svg" />
   </picture>
 </div>
+
 ---
 
 ## 💼 Featured Projects
@@ -92,7 +94,7 @@ class Developer:
 
 **Tech:** `Django` `PostgreSQL` `Bootstrap` `REST API`
 
-[![Repo](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/Abdullah-69-dot/Full-Scale-E-commerce-Platform)
+[![Repo](https://img.shields.io/badge/View_Code-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdullah-69-dot/Full-Scale-E-commerce-Platform)
 
 </td>
 <td width="50%">
@@ -108,7 +110,7 @@ class Developer:
 
 **Tech:** `Django` `SQLite` `ORM`
 
-[![Repo](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/Abdullah-69-dot/System-manage-library)
+[![Repo](https://img.shields.io/badge/View_Code-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdullah-69-dot/System-manage-library)
 
 </td>
 </tr>
@@ -127,7 +129,7 @@ class Developer:
 
 **Tech:** `Django` `PostgreSQL` `HTML/CSS`
 
-[![Repo](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/Abdullah-69-dot/Blog-Application)
+[![Repo](https://img.shields.io/badge/View_Code-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdullah-69-dot/Blog-Application)
 
 </td>
 <td width="50%">
@@ -143,7 +145,7 @@ class Developer:
 
 **Tech:** `Django REST Framework` `JWT`
 
-[![Repo](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/Abdullah-69-dot/Product_Rater_API_Django)
+[![Repo](https://img.shields.io/badge/View_Code-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdullah-69-dot/Product_Rater_API_Django)
 
 </td>
 </tr>
@@ -152,12 +154,37 @@ class Developer:
 <div align="center">
 
 ### 📂 More Projects
-[![E-commerce V2](https://img.shields.io/badge/E--commerce_V2-View-blue?style=for-the-badge)](https://github.com/Abdullah-69-dot/E-commerce)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-green?style=for-the-badge)](https://github.com/Abdullah-69-dot/Portfolio)
+[![E-commerce V2](https://img.shields.io/badge/E--commerce_V2-View-0d1117?style=for-the-badge&logo=github)](https://github.com/Abdullah-69-dot/E-commerce)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-0d1117?style=for-the-badge&logo=github)](https://github.com/Abdullah-69-dot/Portfolio)
 
 </div>
 
---
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Abdullah-69-dot&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&icon_color=00d9ff" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullah-69-dot&theme=radical&hide_border=true&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" />
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-69-dot&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8" />
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```javascript
+const currentlyWorkingOn = {
+    learning: ["Docker & Kubernetes", "CI/CD Pipelines", "Microservices Architecture"],
+    building: ["Advanced E-commerce Features", "RESTful API Best Practices"],
+    reading: ["Clean Code", "System Design Principles"],
+    goal: "Contributing to Open Source & Building Production-Ready Applications"
+};
+```
+
 ---
 
 ## 📫 Let's Connect
@@ -166,7 +193,7 @@ class Developer:
 
 [![Email](https://img.shields.io/badge/Email-abdullahmmmm64%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullahmmmm64@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdullah_Mohammed_Yosef-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-mohammed-yosef-974450336/)
-[![GitHub](https://img.shields.io/badge/GitHub-Abdullah--69--dot-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdullah-69-dot)
+[![GitHub](https://img.shields.io/badge/GitHub-Abdullah--69--dot-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdullah-69-dot)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/Abdullah-69-dot/Portfolio)
 
 📱 **Phone:** +20 111 513 6283  
@@ -179,14 +206,16 @@ class Developer:
 
 <div align="center">
 
-### 💭 Quote of the Day
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+### 💭 Developer Quote
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true)
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=Abdullah-69-dot&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Abdullah-69-dot&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
 
 **"Code is like humor. When you have to explain it, it's bad."** – Cory House
+
+---
 
 Made with ❤️ and ☕ by Abdullah Mohammed Yosef
 
