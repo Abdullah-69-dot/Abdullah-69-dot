@@ -44,13 +44,9 @@ I’m a passionate Backend Developer specializing in Django, focused on building
 ### GitHub Activity & Stats
 
 <p align="center">
-  <!-- Contribution Calendar -->
-  <img src="https://github.com/Abdullah-69-dot/Abdullah-69-dot/blob/output/github-contribution-grid-snake.svg" alt="Contribution Grid" />
+  <img src="https://github.com/Abdullah-69-dot/Abdullah-69-dot/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdullah-69-dot&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-</p>
 
 ---
 
