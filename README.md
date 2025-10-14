@@ -26,7 +26,7 @@
 | 📚 **[Book System Management](https://github.com/YOUR-USERNAME/book-management)** | Manage books, borrowing, returning, users, admin | Django, SQLite |
 | 💬 **[Forum System](https://github.com/YOUR-USERNAME/forum-system)** | Discussion platform with topics, comments, moderation | Django, Django ORM |
 
-> ℹ️ *Replace `YOUR-USERNAME` في الروابط باسمك على GitHub*
+> ℹ️ *Abdullah-69-dot*
 
 ---
 
