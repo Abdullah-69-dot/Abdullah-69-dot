@@ -64,6 +64,16 @@ class Developer:
 </div>
 
 ---
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abdullah-69-dot/Abdullah-69-dot/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abdullah-69-dot/Abdullah-69-dot/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Abdullah-69-dot/Abdullah-69-dot/output/github-snake.svg" />
+  </picture>
+</div>
+---
 
 ## 💼 Featured Projects
 
@@ -147,44 +157,7 @@ class Developer:
 
 </div>
 
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Abdullah-69-dot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullah-69-dot&theme=tokyonight&hide_border=true" />
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-69-dot&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abdullah-69-dot/Abdullah-69-dot/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abdullah-69-dot/Abdullah-69-dot/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Abdullah-69-dot/Abdullah-69-dot/output/github-snake.svg" />
-  </picture>
-</div>
-
----
-
-## 🎯 Current Focus
-
-```javascript
-const currentlyWorkingOn = {
-    learning: ["Docker & Kubernetes", "CI/CD Pipelines", "Microservices Architecture"],
-    building: ["Advanced E-commerce Features", "RESTful API Best Practices"],
-    reading: ["Clean Code", "System Design Principles"],
-    goal: "Contributing to Open Source & Building Production-Ready Applications"
-};
-```
-
+--
 ---
 
 ## 📫 Let's Connect
