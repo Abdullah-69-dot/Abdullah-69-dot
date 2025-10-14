@@ -31,7 +31,7 @@ class Developer:
         ]
 ```
 
- **ITI Graduate** - Full-Stack Web Development  
+ **ITI Trainee** - Full-Stack Web Development  
  **CAPMAS Trainee** - Data Analysis & Python  
  Currently seeking opportunities to build impactful web solutions
 
@@ -160,18 +160,6 @@ class Developer:
 </div>
 
 ---
-
-##  Current Focus
-
-```javascript
-const currentlyWorkingOn = {
-    learning: ["Docker & Kubernetes", "CI/CD Pipelines", "Microservices Architecture"],
-    building: ["Advanced E-commerce Features", "RESTful API Best Practices"],
-    reading: ["Clean Code", "System Design Principles"],
-    goal: "Contributing to Open Source & Building Production-Ready Applications"
-};
-```
-
 ---
 
 ##  Let's Connect
