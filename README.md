@@ -43,7 +43,8 @@ I’m a passionate Backend Developer specializing in Django, focused on building
 
 ### GitHub Activity & Stats
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abdullah-69-dot&theme=github-light)
+![Abdullah Contributions](https://ghchart.rshah.org/Abdullah-69-dot)
+
 
 
 ---
