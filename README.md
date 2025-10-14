@@ -43,9 +43,7 @@ I’m a passionate Backend Developer specializing in Django, focused on building
 
 ### GitHub Activity & Stats
 
-<p align="center">
-  <img src="https://github.com/Abdullah-69-dot/Abdullah-69-dot/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abdullah-69-dot&theme=github-light)
 
 
 ---
