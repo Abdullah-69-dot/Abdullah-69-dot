@@ -6,6 +6,15 @@
 
 <h1 align="center">Hi 👋, I’m <strong>Abdullah Mohammed Yosef</strong></h1>
 <p align="center">Backend Developer | Django & APIs Enthusiast</p>
+
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/Abdullah-69-dot" alt="banner" style="width:100%;max-width:980px;border-radius:12px;opacity:0.95;" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=2000&color=ffffff&center=true&vCenter=true&width=720&lines=Backend+Developer;Django+%26+APIs;Building+Scalable+Systems" alt="typing" />
+</p>
+
 ---
 
 ### About
@@ -47,11 +56,12 @@ I’m a passionate Backend Developer specializing in Django, focused on building
 ### GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdullah-69-dot&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <!-- Contribution Calendar -->
+  <img src="https://github.com/Abdullah-69-dot/Abdullah-69-dot/blob/output/github-contribution-grid-snake.svg" alt="Contribution Grid" />
 </p>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Abdullah-69-dot&theme=github-dark&area=true" alt="Contributions Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdullah-69-dot&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
 </p>
 
 ---
@@ -75,3 +85,4 @@ I’m a passionate Backend Developer specializing in Django, focused on building
 ---
 
 <small align="center">Made with ❤️ • Last updated: <!--DATE--> </small>
+
