@@ -1,78 +1,220 @@
-<!-- Dark Modern Portfolio README for Abdullah -->
-
-<h1 align="center">Hi 👋, I’m <strong>Abdullah Mohammed Yosef</strong></h1>
-<p align="center">Backend Developer | Django & APIs Enthusiast</p>
-
----
-
-### About
-
-I’m a passionate Backend Developer specializing in Django, focused on building scalable web applications, clean REST APIs, and efficient database architectures. I constantly improve my skills through real‑world projects and modern development tools.
-
----
-## 🐍 My Contribution Snake
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Abdullah-69-dot/Abdullah-69-dot/output/github-snake.svg" alt="Snake animation" />
+  
+# 👨‍💻 Abdullah Mohammed Yosef
+
+### Full-Stack Developer | Django & REST APIs Specialist
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications;Django+%7C+Python+%7C+PostgreSQL;Clean+Code+%26+RESTful+APIs;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+
 </div>
 
+---
 
+## 🚀 About Me
 
-### Tech Stack
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Abdullah Mohammed Yosef"
+        self.role = "Backend Developer"
+        self.location = "Giza, Egypt"
+        self.education = "BSc Computer Science & Statistics | Helwan University"
+        self.languages = ["Python", "JavaScript", "SQL"]
+        self.interests = ["Web Development", "Data Analysis", "Reading"]
+    
+    def current_focus(self):
+        return [
+            "Building scalable e-commerce platforms",
+            "Mastering Django REST Framework",
+            "Docker & AWS deployment",
+            "Contributing to open-source"
+        ]
+```
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white&style=for-the-badge" alt="Python" />
-  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" alt="Django" />
-  <img src="https://img.shields.io/badge/DRF-0090B9?logo=django&logoColor=white&style=for-the-badge" alt="DRF" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" alt="Linux" />
-</p>
+🎓 **ITI Graduate** - Full-Stack Web Development  
+📊 **CAPMAS Trainee** - Data Analysis & Python  
+📍 Currently seeking opportunities to build impactful web solutions
 
 ---
 
-### Featured Projects
+## 🛠️ Tech Stack
 
-* 🛒 **E-commerce Platform** — Multi-vendor shopping with cart, checkout, order tracking and admin dashboard.
-  `Tech:` Django, Django REST Framework, PostgreSQL
-  Repo: [https://github.com/Abdullah-69-dot/ecommerce-project](https://github.com/Abdullah-69-dot/ecommerce-project)
+<div align="center">
 
-* 📚 **Book System Management** — Library management system (borrow/return, admin features).
-  `Tech:` Django, SQLite
-  Repo: [https://github.com/Abdullah-69-dot/book-management](https://github.com/Abdullah-69-dot/book-management)
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-* 💬 **Forum System** — Community forum with sections, topics and comments.
-  `Tech:` Django, Django ORM
-  Repo: [https://github.com/Abdullah-69-dot/forum-system](https://github.com/Abdullah-69-dot/forum-system)
+### Databases & Tools
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
----
+### DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### GitHub Activity & Stats
-
-![Abdullah Contributions](https://ghchart.rshah.org/Abdullah-69-dot)
-
-
-
----
-
-### Currently
-
-* Building and improving my E-commerce platform.
-* Learning Deployment (Docker, GitHub Actions) and API testing.
-* Preparing to contribute to open-source projects.
+</div>
 
 ---
 
-### Connect
+## 💼 Featured Projects
 
-<p align="center">
-  <a href="mailto:abdullahmmmm64@gmail.com"><img src="https://img.shields.io/badge/Email-abdullahmmmm64@gmail.com-blue?style=for-the-badge&logo=gmail" alt="email" /></a>
-  <a href="https://github.com/Abdullah-69-dot"><img src="https://img.shields.io/badge/GitHub-Abdullah--69--dot-181717?style=for-the-badge&logo=github" alt="github" /></a>
-  <a href="https://www.linkedin.com/in/abdullah-mohammed-yosef-974450336/"><img src="https://img.shields.io/badge/LinkedIn-Abdullah-blue?style=for-the-badge&logo=linkedin" alt="linkedin" /></a>
-</p>
+<table>
+<tr>
+<td width="50%">
+
+### 🛒 Full-Scale E-commerce Platform
+**Advanced multi-vendor marketplace with complete shopping experience**
+
+- 🔐 User authentication & authorization
+- 🛍️ Cart system with session management
+- 💳 Checkout & order tracking
+- 📊 Admin dashboard & analytics
+- 🤖 AI-powered recommendations & chatbot
+
+**Tech:** `Django` `PostgreSQL` `Bootstrap` `REST API`
+
+[![Repo](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/Abdullah-69-dot/Full-Scale-E-commerce-Platform)
+
+</td>
+<td width="50%">
+
+### 📚 Library Management System
+**Comprehensive book management solution**
+
+- 📖 Book catalog with CRUD operations
+- 👥 User roles & permissions
+- 📅 Borrowing history tracking
+- 🔍 Advanced search & filtering
+- 📊 Statistical reports
+
+**Tech:** `Django` `SQLite` `ORM`
+
+[![Repo](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/Abdullah-69-dot/System-manage-library)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 💬 Blog & Discussion Forum
+**Community-driven discussion platform**
+
+- ✍️ Create & manage blog posts
+- 💭 Threaded comments system
+- 🏷️ Topic categorization
+- 👤 User profiles & activity
+- 🎨 Responsive design
+
+**Tech:** `Django` `PostgreSQL` `HTML/CSS`
+
+[![Repo](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/Abdullah-69-dot/Blog-Application)
+
+</td>
+<td width="50%">
+
+### ⭐ Product Rater API
+**RESTful API for product reviews & ratings**
+
+- 🔌 Complete REST API architecture
+- ⭐ Rating & review system
+- 🔒 Token-based authentication
+- 📄 API documentation
+- ✅ Validation & error handling
+
+**Tech:** `Django REST Framework` `JWT`
+
+[![Repo](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/Abdullah-69-dot/Product_Rater_API_Django)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 📂 More Projects
+[![E-commerce V2](https://img.shields.io/badge/E--commerce_V2-View-blue?style=for-the-badge)](https://github.com/Abdullah-69-dot/E-commerce)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-green?style=for-the-badge)](https://github.com/Abdullah-69-dot/Portfolio)
+
+</div>
 
 ---
 
-<small align="center">Made with ❤️ • Last updated: <!--DATE--> </small>
+## 📊 GitHub Statistics
 
+<div align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Abdullah-69-dot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullah-69-dot&theme=tokyonight&hide_border=true" />
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-69-dot&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abdullah-69-dot/Abdullah-69-dot/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abdullah-69-dot/Abdullah-69-dot/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Abdullah-69-dot/Abdullah-69-dot/output/github-snake.svg" />
+  </picture>
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```javascript
+const currentlyWorkingOn = {
+    learning: ["Docker & Kubernetes", "CI/CD Pipelines", "Microservices Architecture"],
+    building: ["Advanced E-commerce Features", "RESTful API Best Practices"],
+    reading: ["Clean Code", "System Design Principles"],
+    goal: "Contributing to Open Source & Building Production-Ready Applications"
+};
+```
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-abdullahmmmm64%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullahmmmm64@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdullah_Mohammed_Yosef-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-mohammed-yosef-974450336/)
+[![GitHub](https://img.shields.io/badge/GitHub-Abdullah--69--dot-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdullah-69-dot)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/Abdullah-69-dot/Portfolio)
+
+📱 **Phone:** +20 111 513 6283  
+📍 **Location:** Giza, Egypt  
+🌐 **Language:** English (C1)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Quote of the Day
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=Abdullah-69-dot&color=blueviolet&style=for-the-badge)
+
+**"Code is like humor. When you have to explain it, it's bad."** – Cory House
+
+Made with ❤️ and ☕ by Abdullah Mohammed Yosef
+
+</div>
