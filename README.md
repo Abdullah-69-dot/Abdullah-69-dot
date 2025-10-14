@@ -10,6 +10,8 @@
 I’m a passionate Backend Developer specializing in Django, focused on building scalable web applications, clean REST APIs, and efficient database architectures. I constantly improve my skills through real‑world projects and modern development tools.
 
 ---
+### 🐍 Watch my contribution Snake!
+![snake gif](https://github.com/Abdullah-69-dot/Abdullah-69-dot/blob/output/snake.svg)
 
 ### Tech Stack
 
